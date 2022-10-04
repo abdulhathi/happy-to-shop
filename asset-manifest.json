@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/happy-to-shop/static/css/main.f879f474.css",
-    "main.js": "/happy-to-shop/static/js/main.be595da5.js",
+    "main.js": "/happy-to-shop/static/js/main.fef27ffb.js",
     "static/js/787.dafb492a.chunk.js": "/happy-to-shop/static/js/787.dafb492a.chunk.js",
     "index.html": "/happy-to-shop/index.html",
     "main.f879f474.css.map": "/happy-to-shop/static/css/main.f879f474.css.map",
-    "main.be595da5.js.map": "/happy-to-shop/static/js/main.be595da5.js.map",
+    "main.fef27ffb.js.map": "/happy-to-shop/static/js/main.fef27ffb.js.map",
     "787.dafb492a.chunk.js.map": "/happy-to-shop/static/js/787.dafb492a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f879f474.css",
-    "static/js/main.be595da5.js"
+    "static/js/main.fef27ffb.js"
   ]
 }
