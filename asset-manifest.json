@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/happy-to-shop/static/css/main.073c9b0a.css",
-    "main.js": "/happy-to-shop/static/js/main.3fd96495.js",
+    "main.css": "/happy-to-shop/static/css/main.f879f474.css",
+    "main.js": "/happy-to-shop/static/js/main.be595da5.js",
     "static/js/787.dafb492a.chunk.js": "/happy-to-shop/static/js/787.dafb492a.chunk.js",
-    "static/media/logo.svg": "/happy-to-shop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/happy-to-shop/index.html",
-    "main.073c9b0a.css.map": "/happy-to-shop/static/css/main.073c9b0a.css.map",
-    "main.3fd96495.js.map": "/happy-to-shop/static/js/main.3fd96495.js.map",
+    "main.f879f474.css.map": "/happy-to-shop/static/css/main.f879f474.css.map",
+    "main.be595da5.js.map": "/happy-to-shop/static/js/main.be595da5.js.map",
     "787.dafb492a.chunk.js.map": "/happy-to-shop/static/js/787.dafb492a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3fd96495.js"
+    "static/css/main.f879f474.css",
+    "static/js/main.be595da5.js"
   ]
 }
